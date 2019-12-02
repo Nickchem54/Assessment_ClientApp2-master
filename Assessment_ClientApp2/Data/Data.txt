@@ -1,0 +1,5 @@
+﻿Sid,145,happy,blue
+Lucy,125,bored,east
+Bill,934,sad,south
+Rick,400,happy,west
+Luke,240,bored,north
